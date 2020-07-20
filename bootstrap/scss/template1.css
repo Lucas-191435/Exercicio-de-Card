@@ -1,0 +1,153 @@
+#card-1{
+    background-color: #ffffff;
+}
+
+.card-header-my{
+    /* max-height: ; */
+    height: 225px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: linear-gradient(180deg, #38285A 0%, rgba(133, 63, 203, 0) 80.73%), #88317F;
+}
+
+.card-header-my img{
+    color: white;
+}
+.card-header-my a:nth-child(2){
+    margin-left: auto;
+}
+.card-header-my a:nth-child(2) img{
+    width: 32px
+}
+
+
+.card-body-my,.card-tab-content{
+    
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.img-perfil{
+    border: 5px solid white;
+    max-width: 140px;
+}
+
+.perfil{
+    margin-top: -70px;
+}
+
+.perfil-name{
+    margin-top: 30px;
+    width: 140px;
+    height: 28px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: -0.015em;
+    
+    color: #FDFDFD;
+}
+
+.perfil-skill{
+margin-top: 20px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+letter-spacing: -0.015em;
+
+color: #000000;
+}
+
+.perfil-local{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: -0.015em;
+
+color: #4F4F4F;
+}
+
+
+.btn-card{
+    margin: 0px;
+    /* border: 1px solid #000; */
+}
+
+.btn-card .btn{
+    margin-top: 20px;
+    margin-bottom: 28px;
+    padding: 9px 0px 9px;
+    width: 50%;
+    border-radius: 30px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: -0.015em;
+}
+
+.icon-btn-card{
+    margin-right: 5px;
+}
+
+.navbar-card{
+    background-color: #F5F0F9;;
+}
+
+.title-experience{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: -0.015em;
+
+    color: #D2ACCE;
+}
+
+.experience{
+    margin-bottom: 5px;
+    /* border: 1px solid #000; */
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: -0.015em;
+
+    color: #000000;
+}
+.empresa{
+    margin-top: -4px;
+    margin-bottom: 25px;
+    /* border: 1px solid #000; */
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    letter-spacing: -0.015em;
+
+    color: #828282;
+}
